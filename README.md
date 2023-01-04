@@ -1,2 +1,0 @@
-# khushi
-forproject
